@@ -47,7 +47,7 @@ defmodule ExAdmin.Mixfile do
       {:floki, "~> 0.8", only: :test},
       {:cowboy, "~> 1.0"},
       {:phoenix_html, "~> 2.5"},
-      {:inflex, "~> 1.7"},
+      {:inflex, github: "AlexanderChen1989/inflex"},
       {:scrivener_ecto, "~> 1.0.2"},
       {:xain, "~> 0.6"},
       {:csvlixir, "~> 1.0.0"},
