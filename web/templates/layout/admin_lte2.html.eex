@@ -61,11 +61,6 @@
           </div>
         </section>
       </div>
-      <footer id="footer" class="main-footer" style="font-size: 90%">
-        Powered by ExAdmin. Licensed by&nbsp;
-        <a href="http://emetrotel.com" target="_blank">E-MetroTel</a>
-        &nbsp;&copy 2015-2016.
-      </footer>
     </div>
     <script>
       $.widget.bridge('uibutton', $.ui.button);

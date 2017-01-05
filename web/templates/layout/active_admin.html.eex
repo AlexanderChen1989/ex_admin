@@ -44,12 +44,6 @@
             </div>
           <% end %>
         </div>
-        <footer id="footer" style="font-size: 90%">
-          <hr \>
-          Powered by ExAdmin. Licensed by&nbsp;
-          <a href="http://emetrotel.com" target="_blank">E-MetroTel</a>
-          &nbsp;&copy 2013-2016.
-        </footer>
       </div>
     </body>
     <script src='<%= static_path(@conn, "/js/ex_admin_common.js") %>'></script>
